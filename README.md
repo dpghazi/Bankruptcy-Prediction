@@ -19,10 +19,3 @@ In this project, I work with financial data from the [Emerging Markets Informati
 * Matplotlib
 * Seaborn
 * Scikit-learn
-
-## Featured Notebooks
-* [Poland Part 1](https://dpghazi.github.io/projects/working-with-json-files.html)
-* [Poland Part 2](https://dpghazi.github.io/projects/imbalanced-data.html)
-* [Poland Part 3](https://dpghazi.github.io/projects/random-forest.html)
-* [Poland Part 4](https://dpghazi.github.io/projects/gradient-boosting.html)
-* [Taiwan](https://dpghazi.github.io/projects/bankruptcy-in-taiwan.html)
