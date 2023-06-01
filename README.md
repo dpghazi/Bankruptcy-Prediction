@@ -14,3 +14,6 @@ In this project, I work with financial data from the [Emerging Markets Informati
 
 ### Tools & Libraries
 * Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
+
+### Featured Notebooks
+* [Taiwan](https://dpghazi-wqu-ds.s3.amazonaws.com/bankruptcy-in-taiwan.html)
