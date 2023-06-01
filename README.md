@@ -16,4 +16,8 @@ In this project, I work with financial data from the [Emerging Markets Informati
 * Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
 
 ### Featured Notebooks
+* [Poland](https://dpghazi-wqu-ds.s3.amazonaws.com/working-with-json-files.html)
+* [Poland](https://dpghazi-wqu-ds.s3.amazonaws.com/imbalanced-data.html)
+* [Poland](https://dpghazi-wqu-ds.s3.amazonaws.com/random-forest.html)
+* [Poland](https://dpghazi-wqu-ds.s3.amazonaws.com/gradient-boosting.html)
 * [Taiwan](https://dpghazi-wqu-ds.s3.amazonaws.com/bankruptcy-in-taiwan.html)
